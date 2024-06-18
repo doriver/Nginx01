@@ -3,3 +3,12 @@
 2024/06/18 16:56:30 [notice] 7160#8580: signal process started
 2024/06/18 19:39:10 [notice] 8388#12524: signal process started
 2024/06/18 19:43:01 [notice] 8468#2884: signal process started
+2024/06/18 19:51:12 [error] 3708#9876: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:8080/", host: "localhost"
+2024/06/18 19:51:14 [error] 3708#9876: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "localhost"
+2024/06/18 19:57:46 [notice] 5184#8612: signal process started
+2024/06/18 19:59:14 [error] 11412#10828: *1 CreateFile() "D:\Nginx\nginx-1.26.1/html/rc01/rrss" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /rc01/rrss HTTP/1.1", host: "localhost"
+2024/06/18 20:00:36 [notice] 4084#12944: signal process started
+2024/06/18 20:01:22 [notice] 11752#7596: signal process started
+2024/06/18 20:01:46 [notice] 12772#8700: signal process started
+2024/06/18 20:01:46 [error] 12772#8700: CreateFile() "D:\Nginx\nginx-1.26.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/06/18 20:03:57 [notice] 7004#6648: signal process started
