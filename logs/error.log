@@ -41,3 +41,8 @@ ginx-1.26.1\path\cache" failed (123: The filename, directory name, or volume lab
 2024/06/19 19:16:09 [notice] 10164#12460: signal process started
 2024/06/19 19:21:22 [notice] 6620#10888: signal process started
 2024/06/19 19:37:26 [notice] 1184#11548: signal process started
+2024/06/19 19:44:04 [emerg] 4944#13220: "proxy_cache" zone "mycache" is unknown in D:\Nginx\nginx-1.26.1/conf/nginx.conf:141
+2024/06/19 19:44:34 [emerg] 9528#9352: "proxy_cache" zone "mycache" is unknown in D:\Nginx\nginx-1.26.1/conf/nginx.conf:141
+2024/06/19 19:44:34 [alert] 10988#7552: worker process 9528 exited with code 1
+2024/06/19 19:44:34 [alert] 10988#7552: could not respawn worker
+2024/06/19 19:44:56 [emerg] 8184#11764: "proxy_cache" zone "mycache" is unknown in D:\Nginx\nginx-1.26.1/conf/nginx.conf:141
