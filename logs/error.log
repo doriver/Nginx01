@@ -31,3 +31,13 @@ ginx-1.26.1\path\cache" failed (123: The filename, directory name, or volume lab
 2024/06/19 17:00:44 [notice] 13072#2396: signal process started
 2024/06/19 17:10:13 [notice] 6856#3676: signal process started
 2024/06/19 17:14:17 [notice] 7956#7192: signal process started
+2024/06/19 18:23:20 [emerg] 11832#8316: CreateDirectory() "D:/data/nginx/cache" failed (3: The system cannot find the path specified)
+2024/06/19 18:48:54 [notice] 11056#5136: signal process started
+2024/06/19 18:57:28 [notice] 7808#7364: signal process started
+2024/06/19 18:57:28 [error] 7808#7364: OpenEvent("Global\ngx_quit_7492") failed (5: Access is denied)
+2024/06/19 18:57:36 [notice] 13220#11664: signal process started
+2024/06/19 18:57:36 [error] 13220#11664: OpenEvent("Global\ngx_quit_7492") failed (5: Access is denied)
+2024/06/19 19:04:43 [notice] 9500#2036: signal process started
+2024/06/19 19:16:09 [notice] 10164#12460: signal process started
+2024/06/19 19:21:22 [notice] 6620#10888: signal process started
+2024/06/19 19:37:26 [notice] 1184#11548: signal process started
