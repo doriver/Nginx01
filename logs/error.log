@@ -13,3 +13,21 @@
 2024/06/18 20:01:46 [error] 12772#8700: CreateFile() "D:\Nginx\nginx-1.26.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
 2024/06/18 20:03:57 [notice] 7004#6648: signal process started
 2024/06/19 11:51:26 [notice] 888#3580: signal process started
+2024/06/19 14:14:18 [emerg] 12640#9012: CreateDirectory() "D:\Nginx
+ginx-1.26.1\path\cache" failed (123: The filename, directory name, or volume label syntax is incorrect)
+2024/06/19 14:15:18 [emerg] 9408#4752: CreateDirectory() "D:\Nginx
+ginx-1.26.1\path\cache" failed (123: The filename, directory name, or volume label syntax is incorrect)
+2024/06/19 14:18:35 [emerg] 7488#6856: CreateDirectory() "D:\Nginx
+ginx-1.26.1/path/cache" failed (123: The filename, directory name, or volume label syntax is incorrect)
+2024/06/19 14:19:19 [emerg] 7564#4468: CreateDirectory() "D:\Nginx
+ginx-1.26.1\path\cache" failed (123: The filename, directory name, or volume label syntax is incorrect)
+2024/06/19 14:32:11 [notice] 6600#11044: signal process started
+2024/06/19 14:38:36 [notice] 5068#6404: signal process started
+2024/06/19 16:44:34 [emerg] 10352#12976: CreateDirectory() "D:/path/cache" failed (3: The system cannot find the path specified)
+2024/06/19 16:46:19 [emerg] 3456#5212: CreateDirectory() "D:\Nginx\nginx-1.26.1/Nginx/nginx-1.26.1/path/cache" failed (3: The system cannot find the path specified)
+2024/06/19 16:47:58 [emerg] 5352#980: CreateDirectory() "D:\Nginx\nginx-1.26.1/Nginx/nginx-1.26.1/path/cache" failed (3: The system cannot find the path specified)
+2024/06/19 16:48:36 [emerg] 1020#7608: CreateDirectory() "D:/path/cache" failed (3: The system cannot find the path specified)
+2024/06/19 16:49:08 [emerg] 9016#1136: CreateDirectory() "D:\Nginx\nginx-1.26.1/Nginx/nginx-1.26.1/path/cache" failed (3: The system cannot find the path specified)
+2024/06/19 17:00:44 [notice] 13072#2396: signal process started
+2024/06/19 17:10:13 [notice] 6856#3676: signal process started
+2024/06/19 17:14:17 [notice] 7956#7192: signal process started
