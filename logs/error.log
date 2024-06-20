@@ -65,3 +65,5 @@ ginx-1.26.1\path\cache" failed (123: The filename, directory name, or volume lab
 2024/06/20 16:47:38 [error] 10812#11120: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /sign-view HTTP/1.1", upstream: "http://[::1]:8080/sign-view", host: "localhost"
 2024/06/20 16:47:40 [error] 10812#11120: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /sign-view HTTP/1.1", upstream: "http://127.0.0.1:8080/sign-view", host: "localhost"
 2024/06/20 16:53:03 [notice] 9264#4528: signal process started
+2024/06/20 18:01:28 [notice] 4156#8144: signal process started
+2024/06/20 18:01:28 [error] 4156#8144: OpenEvent("Global\ngx_stop_11116") failed (2: The system cannot find the file specified)
