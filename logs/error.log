@@ -67,3 +67,6 @@ ginx-1.26.1\path\cache" failed (123: The filename, directory name, or volume lab
 2024/06/20 16:53:03 [notice] 9264#4528: signal process started
 2024/06/20 18:01:28 [notice] 4156#8144: signal process started
 2024/06/20 18:01:28 [error] 4156#8144: OpenEvent("Global\ngx_stop_11116") failed (2: The system cannot find the file specified)
+2024/07/10 16:32:24 [notice] 14460#13792: signal process started
+2024/07/10 16:34:56 [notice] 5448#13832: signal process started
+2024/07/10 16:41:23 [notice] 5624#10100: signal process started
